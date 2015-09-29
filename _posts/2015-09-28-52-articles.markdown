@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "52 Articles"
-tags: writing goals
-published: false
+tags: 52articles writing goals
 ---
 I really enjoy writing, and I want to get better at it. So, here's my goal:
 
@@ -14,7 +13,7 @@ Here are the rules:
 - Articles have to be coherent thoughts. It doesn’t count to just describe what is happening in the front yard or write an extended public journal entry.
 - Some events may be of enough public interest and relevance to warrant an article, but that will likely be rare.
 - Articles should be posted on Friday mornings.
-- Writing more than one article in a week is acceptable.
+- Writing more than one article in a week is acceptable, but I still have to write another one the next week.
 - Having a backlog of unpublished articles is acceptable.
 - Writing an article for another blog still counts, but I will link to it from here.
 - This post does not count as an article.
