@@ -15,4 +15,8 @@ markdown: kramdown
 # Pagination
 paginate: 5
 
+# Add /blog/ to beginning of Post URLs
 permalink: /blog/:year/:month/:day/:title/
+
+# Don't publish future posts
+future: false
