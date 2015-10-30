@@ -22,14 +22,13 @@ But we have a culture problem. The problem goes beyond any one company or even g
 
 The second half of our culture problem is that we don't like errors. Errors are bad, so we make them red or (worse) we swallow them. It would be terrible to break a user's experience in production with a thrown error, so we write code like this.
 
-```
-try {
+<pre><code>try {
   somethingRisky();
 } catch (e) {
   // something important should happen in here...
   // oh well, let's move on!
 }
-```
+</code></pre>
 
 When we were coding alone, error swallowing wasn't a big deal because we knew where the errors might occur and we knew what they meant and how to fix them. Exposing useful error feedback is a skill, and as a group we have not gotten good at it (*ahem* `undefined is not a function` *ahem*).
 
