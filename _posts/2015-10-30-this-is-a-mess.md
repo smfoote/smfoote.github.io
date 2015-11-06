@@ -10,7 +10,7 @@ I'm going to take a break from writing about my ideas, and instead write about h
 
 ## The Mess
 
-I have found web development to always be a messy place. Messy hair, messy desks, messy code. Most of this messiness has been, in my opinion, good for us and good for the web. It has allowed us to move quickly and turn the web into something really incredible. The incredible web has changed the way the wold works in significant ways. But recently a new kind of messiness has become a part of the world of web development. This new messiness leads to bizarre bugs, slow development, and hours of frustration. We now live in a world of plugins and packages, addons and modules. Our code is compiled, transpiled, concatenated, "uglified", "browserified", and mangled in many other ways before it gets to the browser. There is so much magic, and so little documentation, and even less error reporting.
+I have found web development to always be a messy place. Messy hair, messy desks, messy code. Most of this messiness has been, in my opinion, good for us and good for the web. It has allowed us to move quickly and turn the web into something really incredible. The incredible web has changed the way the world works in significant ways. But recently a new kind of messiness has become a part of the world of web development. This new messiness leads to bizarre bugs, slow development, and hours of frustration. We now live in a world of plugins and packages, addons and modules. Our code is compiled, transpiled, concatenated, "uglified", "browserified", and mangled in many other ways before it gets to the browser. There is so much magic, and so little documentation, and even less error reporting.
 
 ## How We Got Here
 
