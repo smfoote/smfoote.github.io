@@ -11,7 +11,7 @@ If you're interested in UX, you know that you should keep your products simple. 
 
 "It's not WORKING!"
 
-"That's because you've<sup><a href="#note-1">[1]</a></sup> got your holding the iPad with your thumb on the screen, and the app doesn't know which touch event to use to ..."
+"That's because you're<sup><a href="#note-1">[1]</a></sup> holding the iPad with your thumb on the screen, and the app doesn't know which touch event to use to ..."
 
 The iPad seems simple enough for a 3-year-old because you don't _have_ to type to use some of the functionality, and though 3-year-olds can type, it usually doesn't make any sense<sup><a href="#note-2">[2]</a></sup>.
 
