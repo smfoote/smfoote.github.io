@@ -1,3 +1,7 @@
+# Gems
+gems:
+  - jekyll-sitemap
+
 # Site settings
 title: Steven Foote
 email: steven@smfoote.com
