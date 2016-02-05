@@ -27,4 +27,4 @@ In conclusion, don't use only boring technology. Be courageous and innovate. Be 
 
 <aside id="note-1"><b>Note 1:</b> Users pay with money, time, or both. If you have users, they are paying in some sense. Treat them well.</aside>
 
-<aside id="note-2"><b>Note 2:</b> In my most up-voted [Stack Overflow question](http://stackoverflow.com/questions/3713313/when-should-i-use-a-nosql-database-instead-of-a-relational-database-is-it-okay), I asked when to use a NoSQL database. The answers were all basically, "You'll know when you need it." That has never been the case on any of my personal projects, and I've yet to use one seriously.</aside>
+<aside id="note-2"><b>Note 2:</b> In my most up-voted <a href="http://stackoverflow.com/questions/3713313/when-should-i-use-a-nosql-database-instead-of-a-relational-database-is-it-okay">Stack Overflow question</a>, I asked when to use a NoSQL database. The answers were all basically, "You'll know when you need it." That has never been the case on any of my personal projects, and I've yet to use one seriously.</aside>
