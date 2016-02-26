@@ -13,7 +13,7 @@ The other day I was trying to figure out why I don't use Facebook to wish my fri
 
 For those who are curious how this would work, here is some fake code that would handle sending birthday messages to my friends. This code would automatically be run every day in a [cron job](https://en.wikipedia.org/wiki/Cron).
 
-<pre><code>
+{% highlight js %}
 // My birthday messages
 let BIRTHDAY_MESSAGES = [
                           'Happy Birthday!!!',
@@ -56,7 +56,7 @@ function sendBirthdayMessage(friend) {
     { message }
   );
 }
-</code></pre>
+{% endhighlight %}}
 
 I admit, this is quite a bit of code, and, more importantly, it won't work as it's written. But, it's not too far off and I wrote this fake code in less than 15 minutes. Imagine what a good friend I would be, sending birthday messages to all of my close friends, never missing a single one, year after year.
 
