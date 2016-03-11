@@ -7,7 +7,7 @@ comments: true
 
 I have written several articles now about my ideas. I end most of these articles with a fairly lengthy explanation of what is wrong with each of those ideas. In being critical of my own ideas, I don't mean to suggest that I don't like them, nor that they could not be successful if properly executed. Instead, I am attempting to acknowledge that my ideas have weaknesses, and that I am not blind to them. There comes a point when an idea has so many weaknesses that it passes, for me, from "crazy, good idea" to "crazy bad idea." I've only shared the ideas that I think are at least more on the good side than on the bad side, but I have plenty of ideas that are no good at all. I have long had a method of determining which ideas are good and which are bad, but I have only recently become aware enough of the method to be able to articulate it.
 
-<h5 style="text-align: center;">The strength of an idea is directly related to how late I stay up at night thinking about it.</h5>
+<h4 style="text-align: center;">The strength of an idea is directly related to how late I stay up at night thinking about it.</h4>
 
 In other words, an idea is good if it is alive. But what does it mean to be alive. One of the greatest blessings of having kids is that you get to think about questions so basic that we take them for granted, but so mysterious that they deserve much more of our attention.
 
@@ -31,7 +31,7 @@ Me: "Well, because ... they don't ... I don't really know"
 
 Since this (embarrassing) conversation, I've given the topic a lot of thought. What makes something "alive"? I don't know that I've ever even considered the question before. It is a fact, not something to be questioned. I'm certain that the field of Biology has an excellent answer to the question, but probably not an answer that I would be able to share with my young daughter. After quite a bit of thought, this is what I've come up with.
 
-<h5 style="text-align: center;">An object is alive if it can grow and repair itself (i.e. heal)</h5>
+<h4 style="text-align: center;">An object is alive if it can grow and repair itself (i.e. heal)</h4>
 
 That definition isn't complex (and it's almost certainly incorrect or incomplete), but I think it's quite useful. And I'm pretty sure my daughter can understand it.
 
