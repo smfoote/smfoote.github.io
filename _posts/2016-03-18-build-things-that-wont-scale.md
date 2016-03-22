@@ -5,6 +5,8 @@ tags: 52articles entrepreneurship
 comments: true
 ---
 
+![McDonald's serves billions - is that the goal?](/assets/mcdonalds-billions.jpg)
+
 I have to admit that, while I really like the idea of entrepreneurship, and I enjoy reading about small companies and startups and what makes them tick and what makes them succeed and what makes them fail, I am not really an entrepreneur. The course of my life has not given me that opportunity. Yet. So, what follows is quite possibly terrible advice. But, it makes a lot of sense in my head, so I'm going to share it anyway.
 
 Almost 3 years ago, Paul Graham wrote an essay called [Do Things That Don't Scale](http://paulgraham.com/ds.html). If you haven't read the essay, and you're interested in entrepreneurship, you should take a moment to read it. Even if you never come back to finish this article, I will have accomplished most of my objective by sharing that essay. Mr. Graham discusses how, in starting a company, one must do certain things that would never work if the company's customer base were very large. Some examples are sending hand-written letters to each customer, or building by hand a product that you hope to eventually automate. He further suggests that such unscalable activities are essential to achieve the customer growth necessary to require doing things that do scale. Hand written letters and other personal/human touches are the stuff of word-of-mouth marketing success stories. Finally, if you discover that no one wants the product you are building by hand, the time and effort required to automate production would have been wasted.
