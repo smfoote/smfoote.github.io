@@ -5,7 +5,7 @@ tags: 52articles entrepreneurship
 comments: true
 ---
 
-![McDonald's serves billions - is that the goal?](/assets/mcdonalds-billions.jpg)
+![McDonald's serves billions - is that the goal?](/assets/mcds-billions.jpg)
 
 I have to admit that, while I really like the idea of entrepreneurship, and I enjoy reading about small companies and startups and what makes them tick and what makes them succeed and what makes them fail, I am not really an entrepreneur. The course of my life has not given me that opportunity. Yet. So, what follows is quite possibly terrible advice. But, it makes a lot of sense in my head, so I'm going to share it anyway.
 
