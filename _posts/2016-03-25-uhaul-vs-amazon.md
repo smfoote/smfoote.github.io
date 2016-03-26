@@ -5,7 +5,7 @@ tags: 52articles entrepreneurship business
 comments: true
 ---
 
-![A U-Haul truck, losing money](/assets/uhaul.jpg)
+![A U-Haul truck, losing money](/assets/u-haul.jpg)
 
 Several years ago, at the Marriott School of Management at BYU, I took a class on strategy. As with most business school classes, we spent our time reading and discussing case studies. I remember as we discussed U-Haul, being particularly impressed with the ingenuity of the management team in creating a profitable business out of near bankruptcy. The way U-Haul makes most of its money (at least according to my potentially faulty memory of a perhaps outdated case study) is only tangentially related to trucks. U-Haul trucks are very cheap to rent. So cheap, in fact, that U-Haul makes almost no profit from them, and sometimes incurs a loss. U-Haul had chosen a low-price strategy, hoping to gain a large portion of the market. But when you are losing money on every sale, you shouldn't try to make it up in volume. U-Haul had established itself in the market as the low-cost moving option. Raising prices would probably scare away most of their customers (imagine if McDonald's charged the same prices as Olive Garden), but keeping their prices the same was already killing the business.
 
