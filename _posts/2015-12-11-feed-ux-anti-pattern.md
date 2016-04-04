@@ -5,7 +5,7 @@ tags: 52articles technology user-experience ux
 comments: true
 ---
 
-![Drowning in the stream](http://www.nothinggreatiseasy.com/wp-content/uploads/2012/07/Kettle-River-swim-July-29th-107.jpg)
+![Drowning in the stream](/assets/stream-swim.jpg)
 
 In fall 2004, I was a freshman in college at [BYU](http://home.byu.edu/home/). Earlier that year, on the other side of the country, Facebook was born. I opened my "the Facebook" account that same year, on November 28, 2004. At the time, as a college freshman, I thought Facebook was a lot of fun and different. Lately, though, I have realized that my experience on the Internet is inundated with news feeds, also known as streams. We're being flooded with streams.
 
