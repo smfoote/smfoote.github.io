@@ -23,4 +23,4 @@ paginate: 5
 permalink: /blog/:year/:month/:day/:title/
 
 # Don't publish future posts
-future: false
+# future: false
