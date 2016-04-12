@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Telsa's Model 3: Solving the Wrong Problem"
+title: "Tesla's Model 3: Solving the Wrong Problem"
 tags: 52articles business transit
 comments: true
 ---
