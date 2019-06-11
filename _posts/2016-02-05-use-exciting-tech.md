@@ -2,6 +2,7 @@
 layout: post
 title: "Use Exciting Technology"
 tags: 52articles thoughts technology
+permalink: /blog/use-exciting-tech
 comments: true
 ---
 

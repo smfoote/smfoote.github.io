@@ -2,6 +2,7 @@
 layout: post
 title: "The Stream As a User Experience Anti-pattern"
 tags: 52articles technology user-experience ux
+permalink: /blog/feed-ux-anti-pattern
 comments: true
 ---
 

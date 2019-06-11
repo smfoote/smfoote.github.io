@@ -2,6 +2,7 @@
 layout: post
 title: "The Code Doesn't Matter"
 tags: 52articles software development technology
+permalink: /blog/code-doesnt-matter
 comments: true
 ---
 

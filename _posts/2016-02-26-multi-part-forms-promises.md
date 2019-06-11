@@ -2,6 +2,7 @@
 layout: post
 title: "Handling Multi-step Forms with Promises"
 tags: 52articles javascript UI promises
+permalink: /blog/multi-part-form-promises
 comments: true
 ---
 

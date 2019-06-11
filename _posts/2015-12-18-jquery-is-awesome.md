@@ -2,6 +2,7 @@
 layout: post
 title: "You May Not Need jQuery, But it's Awesome"
 tags: 52articles web-development technology
+permalink: /blog/jquery-is-awesome
 comments: true
 ---
 
