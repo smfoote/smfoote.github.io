@@ -8,7 +8,7 @@ email: steven@smfoote.com
 description: > # this means to ignore newlines until "baseurl:"
   A blog about technology, business, and faith. By Steven Foote.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://smfoote.com" # the base hostname & protocol for your site
+url: "https://smfoote.com" # the base hostname & protocol for your site
 twitter_username: smfoote
 github_username:  smfoote
 linkedin_username: stevenmfoote
